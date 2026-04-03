@@ -1,9 +1,10 @@
 # En-Yu Hsu's user page
 ## About me
-Hi, my name is En-Yu Hsu. I'm a junior cs student as UCSD
+Hi, my name is En-Yu Hsu. I'm a junior cs student at UCSD
 > I'm a transfer student
 ## As a programmer
 I know ~~Java~~, *C* , **C++** and python. I enjoy learning new skills.
+### Favorite code
 `cout << "HI!";`
 [Github](https://github.com/anvik331)
 ## hobbies
